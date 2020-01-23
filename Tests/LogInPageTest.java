@@ -14,23 +14,5 @@ public class LogInPageTest extends TestBase {
         logInPage.clickOnLogInButton ();
 
 
-
-//        Assert.assertTrue ( );
-
-    }
-
-
-//    @Test
-//    protected void typeUserName() {
-//
-//
-//    }
-//
-//    @Test
-//    public void typePassword() {
-//    }
-//
-//    @Test
-//    public void clickOnLogInButton() {
-//    }
+}
 }
